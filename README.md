@@ -17,10 +17,9 @@ Automate uploading torrents to Seedr, strip `private` tags, generate magnet link
 ## 📦 Installation
 
 ```bash
-# From PyPI
-pip install seedr-manager
 
-# Or from source
+
+# from source
 git clone https://github.com/your-username/seedr-manager.git
 cd seedr-manager
 pip install .
