@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/your-username/seedr-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/seedr-manager/actions/workflows/ci.yml)
+[![CI](https://github.com/chegame56/seedr-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/chegame56/seedr-manager/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/seedr-manager.svg)](https://pypi.org/project/seedr-manager)
-[![Windows Build](https://github.com/your-username/seedr-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/your-username/seedr-manager/actions/workflows/ci.yml)
+[![Windows Build](https://github.com/chegame56/seedr-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/chegame56/seedr-manager/actions/workflows/ci.yml)
 
 # Seedr Manager
 
